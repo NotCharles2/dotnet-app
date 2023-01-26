@@ -1,0 +1,15 @@
+/Users/charlesarmstrong/Desktop/dotnet-app/MyApp/bin/Debug/net7.0/MyApp
+/Users/charlesarmstrong/Desktop/dotnet-app/MyApp/bin/Debug/net7.0/MyApp.deps.json
+/Users/charlesarmstrong/Desktop/dotnet-app/MyApp/bin/Debug/net7.0/MyApp.runtimeconfig.json
+/Users/charlesarmstrong/Desktop/dotnet-app/MyApp/bin/Debug/net7.0/MyApp.dll
+/Users/charlesarmstrong/Desktop/dotnet-app/MyApp/bin/Debug/net7.0/MyApp.pdb
+/Users/charlesarmstrong/Desktop/dotnet-app/MyApp/obj/Debug/net7.0/MyApp.csproj.AssemblyReference.cache
+/Users/charlesarmstrong/Desktop/dotnet-app/MyApp/obj/Debug/net7.0/MyApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/charlesarmstrong/Desktop/dotnet-app/MyApp/obj/Debug/net7.0/MyApp.AssemblyInfoInputs.cache
+/Users/charlesarmstrong/Desktop/dotnet-app/MyApp/obj/Debug/net7.0/MyApp.AssemblyInfo.cs
+/Users/charlesarmstrong/Desktop/dotnet-app/MyApp/obj/Debug/net7.0/MyApp.csproj.CoreCompileInputs.cache
+/Users/charlesarmstrong/Desktop/dotnet-app/MyApp/obj/Debug/net7.0/MyApp.dll
+/Users/charlesarmstrong/Desktop/dotnet-app/MyApp/obj/Debug/net7.0/refint/MyApp.dll
+/Users/charlesarmstrong/Desktop/dotnet-app/MyApp/obj/Debug/net7.0/MyApp.pdb
+/Users/charlesarmstrong/Desktop/dotnet-app/MyApp/obj/Debug/net7.0/MyApp.genruntimeconfig.cache
+/Users/charlesarmstrong/Desktop/dotnet-app/MyApp/obj/Debug/net7.0/ref/MyApp.dll
